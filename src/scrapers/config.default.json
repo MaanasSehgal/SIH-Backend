@@ -1,0 +1,11 @@
+{
+  "searchTerms": ["(#IndiaDisaster OR #IndiaFlood OR #IndiaEarthquake OR #IndiaStorm OR #IndiaRain) -filter:replies"],
+  "tweetsPerPage": 20,
+  "timeoutBetweenTweetsScrapedSeconds": 5,
+  "timeoutForFirstTweetScrapedSeconds": 25,
+  "puppeteerLaunchOptions": { "headless": false },
+  "nextLabel": "Next",
+  "loginLabel": "Log in",
+  "scrollByPixels": 100,
+  "scrollCooldownMillis": 100
+}
